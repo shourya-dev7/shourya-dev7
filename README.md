@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Shourya 👋
 
-<!--
-**shourya-dev7/shourya-dev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+- 🎓 First-Year B.Tech CSE Student at VIT Chennai
+- 💻 Learning Python, C++, Git & GitHub
+- 📚 Currently exploring Data Structures & Algorithms
+- 🚀 Working towards becoming a Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Languages & Tools
+
+- Python
+- C++
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🌱 Currently Learning
+
+- Python
+- Git & GitHub
+- Problem Solving
+
+---
+
+## 🎯 Goals for 2026
+
+- ✅ Master Python
+- ✅ Learn C++
+- ✅ Solve 300+ DSA problems
+- ✅ Build 10+ Projects
+- ✅ Contribute to Open Source
+
+---
+
+⭐ Thanks for visiting my profile!
